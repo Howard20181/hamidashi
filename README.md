@@ -2,4 +2,4 @@
 
 - Text
 - UI
-- Movie
+- Movie(already captured.)
