@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="しぶちん"},
+{"savetitle",text="吝啬鬼"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg014_a",path=":bg/",sync=0},
 {"fg",ch="詩桜",ex05="shi_noa0000",face="a0001",file="shi_noa0200",head="shi_noa",id=13,lv=2.2,mode=3,mx=0,my=0,path=":fg/shi/no/",size="no",sync=0},
