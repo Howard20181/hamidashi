@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="小田原城之战"},
+{"savetitle",text="小田原城の戦い"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg012_a",path=":bg/",sync=0},
 {"fg",ch="詩桜",ex05="shi_z1a0010",face="a0001",file="shi_z1a0210",head="shi_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/shi/z1/",resize=1,size="z1",sync=0},
@@ -1924,7 +1924,7 @@ ja={
 vo={
 {"vo",file="fem_rir_00001",ch="rir"},
 },
-name={name="他校の女子生徒H"},
+name={name="莉々子",ja="他校の女子生徒H"},
 ja={
 {
 "「各位，请到此为止吧？」",
@@ -1942,7 +1942,7 @@ ja={
 vo={
 {"vo",file="fem_rir_00002",ch="rir"},
 },
-name={name="他校の女子生徒H"},
+name={name="莉々子",ja="他校の女子生徒H"},
 ja={
 {
 "「真是的，长得漂亮什么的，威风凛凛什么的，都是跟学生会长的能力毫无关联的话……诗樱『原』会长应该也是这么认为的。对吧，各位？」",
@@ -3785,4 +3785,3 @@ ja={
 label={
 },
 }
-

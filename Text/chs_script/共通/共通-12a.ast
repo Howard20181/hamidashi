@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="自拍 YES"},
+{"savetitle",text="地鶏は鹿児島"},
 {"eval",exp="f.hiy=f.hiy+1"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_a",path=":bg/",sync=0,x=400,zoom=120},
 {"fg",ch="妃愛",ex05="hiy_z2b0010",face="b0018",file="hiy_z2b0210",head="hiy_z2b",id=13,lv=2.4,mode=3,mx=0,my=0,path=":fg/hiy/z2/",resize=1,size="z2",sync=0,x=0},
@@ -182,4 +182,3 @@ ja={
 label={
 },
 }
-

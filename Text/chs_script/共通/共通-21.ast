@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="胜而不骄"},
+{"savetitle",text="勝って兜の緒を締めよ"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg014_b",path=":bg/",rule="rule_002r",speed=80000,vague=40,x=-600,x2=-600,y=-360,y2=360},
 {"bgm",file="bgm08"},
 {"text"},
@@ -3425,4 +3425,3 @@ ja={
 label={
 },
 }
-

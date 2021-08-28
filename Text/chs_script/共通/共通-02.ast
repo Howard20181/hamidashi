@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="早上总有很早就到的人"},
+{"savetitle",text="朝いっつも早いやついるよね"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg014_a",path=":bg/",speed=60000,time=2000,x=-640,x2=-640,y=-360,y2=360},
 {"ex",time=2000,func="wait"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg009_a",path=":bg/",speed=120000,x=-640,x2=640,y=100,y2=100},
@@ -1394,7 +1394,9 @@ vo={
 name={name="天梨"},
 ja={
 {
+{"exfont",size="f2"},
 "「谢谢」",
+{"exfont"},
 },
 },
 },
@@ -1451,7 +1453,7 @@ ja={
 vo={
 {"vo",file="man_hir_00005",ch="hir"},
 },
-name={name="後ろの席"},
+name={name="広夢",ja="後ろの席"},
 ja={
 {
 "「啊。你在玩战誓啊」",
@@ -2186,7 +2188,9 @@ ja={
 name={name="智宏"},
 ja={
 {
-"「我不行啊！！」",
+{"exfont",size="f4"},
+"「無理イイィー！」",
+{"exfont"},
 },
 },
 },

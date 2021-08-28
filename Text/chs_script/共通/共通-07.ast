@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="纸包不住火"},
+{"savetitle",text="非表示フォルダは安全に非ず"},
 {"bg",file="bg001_a",path=":bg/",time=2000},
 {"se",id=1,file="se携帯のバイブ1"},
 {"text"},
@@ -614,6 +614,9 @@ name={name="里"},
 ja={
 {
 "哇",
+{"gaiji",text="①"},
+{"gaiji",text="①"},
+{"gaiji",text="①"},
 },
 },
 },
@@ -623,6 +626,9 @@ name={name="里"},
 ja={
 {
 "笑死我了",
+{"gaiji",text="①"},
+{"gaiji",text="①"},
+{"gaiji",text="①"},
 },
 },
 },
@@ -1165,7 +1171,7 @@ ja={
 vo={
 {"vo",file="man_hir_00014",ch="hir"},
 },
-name={name="雨野葉レマ"},
+name={name="広夢",ja="雨野葉レマ"},
 ja={
 {
 "「今天运势最好的星座是～～～……巨蟹座！　请保持镇定，多留意下身边的小事哦☆」",
@@ -1197,4 +1203,3 @@ ja={
 label={
 },
 }
-

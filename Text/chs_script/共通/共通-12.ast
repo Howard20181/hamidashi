@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="充满希望的早晨"},
+{"savetitle",text="希望の朝だ"},
 {"se",id=1,file="se携帯のバイブ1"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_a",path=":bg/",rule="008b",time=2000,x=-640,y=-200},
 {"se",stop=1,time=500,id=1},
@@ -478,8 +478,8 @@ ja={
 [32]={
 select={
 ja={
-"喜欢",
-"不喜欢",
+"好き",
+"そうでもない",
 },
 },
 },
@@ -487,4 +487,3 @@ ja={
 label={
 },
 }
-

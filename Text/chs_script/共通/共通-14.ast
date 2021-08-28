@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="今天开始学生会活动"},
+{"savetitle",text="今日から生徒会は！"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg009_a",path=":bg/",rule="rule_002",speed=120000,vague=40,x=-640,x2=640,y=100,y2=100},
 {"bgm",file="bgm07_2"},
 {"text"},
@@ -3784,7 +3784,7 @@ ja={
 vo={
 {"vo",file="fem_kan_00181",ch="kan"},
 },
-name={name="华乃"},
+name={name="華乃"},
 ja={
 {
 "「太慢了」",
@@ -8025,8 +8025,8 @@ ja={
 [456]={
 select={
 ja={
-"拜托常磐",
-"和锦出去",
+"常磐に頼む",
+"錦さんと出かける",
 },
 },
 },
