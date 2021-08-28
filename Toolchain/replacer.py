@@ -38,12 +38,10 @@ def main():
             chs_line = i
             jp_line = jp[chs.index(chs_line)]
             # parser '\n'
-            chs_line = chs_line.replace(r'\n',r'\\n')
-            jp_line = jp_line.replace(r'\n',r'\\n')
             print(jp_line,'\n',chs_line)
-            j_text = j_text.replace(jp_line,chs_line)
+            j_text = j_text.replace(r'"' + jp_line + r'"',r'"' + chs_line + r'"')
 
-        f_save = open(json_text + r'.replaced.json','w')
+        f_save = open(json_text,'w')
         f_save.write(j_text)
 
         f_save.close()    
