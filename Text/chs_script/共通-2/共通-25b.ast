@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="日給どころか時給"},
+{"savetitle",text="可不是日薪，是时薪"},
 {"bgm",file="bgm02"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg006_b",path=":bg/",sync=0},

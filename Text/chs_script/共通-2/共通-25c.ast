@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="天使の休息"},
+{"savetitle",text="天使的休息"},
 {"excall",cond="f.kyotu_25a==1",label="flagyes"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg016_b",path=":bg/",rule="rule_001",speed=120000,vague=40,x=-640,x2=640,y=100,y2=100},
 {"excall",label="label1"},

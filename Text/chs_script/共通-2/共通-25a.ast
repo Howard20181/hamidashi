@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="入稿はお早めに"},
+{"savetitle",text="要早日交稿"},
 {"excall",cond="f.kyotu_25c==1",label="flagyes"},
 {"bg",file="bg015_b",path=":bg/",rule="rule_001",vague=40},
 {"excall",label="label1"},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="そしてふりだしに戻る"},
+{"savetitle",text="然后回到最初"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg010_a",path=":bg/",rule="rule_002r",speed=120000,vague=40,x=-640,x2=640,y=100,y2=100},
 {"bgm",file="bgm05"},
 {"text"},
