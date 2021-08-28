@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="非表示フォルダは安全に非ず"},
+{"savetitle",text="纸包不住火"},
 {"bg",file="bg001_a",path=":bg/",time=2000},
 {"se",id=1,file="se携帯のバイブ1"},
 {"text"},

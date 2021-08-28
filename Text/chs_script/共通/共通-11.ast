@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="たまには確かめないとね"},
+{"savetitle",text="还是要时不时确认一下较好"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg099_b",path=":bg/"},
 {"bgm",file="bgm25"},
 {"text"},

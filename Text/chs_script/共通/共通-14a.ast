@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="今日から常磐！"},
+{"savetitle",text="今天和常磐一起！"},
 {"eval",exp="f.kan=f.kan+1"},
 {"bgm",file="bgm12"},
 {"msgoff"},

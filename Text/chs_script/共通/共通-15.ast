@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="しおらしい女"},
+{"savetitle",text="温文尔雅的女人"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg099_b",path=":bg/",speed=60000,time=2000,x=-300,x2=-300,y=360,y2=-360},
 {"bgm",file="bgm07"},
 {"text"},

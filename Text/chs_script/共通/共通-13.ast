@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="それでも僕の存在は変わらない"},
+{"savetitle",text="就算如此我的存在也不会改变"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg009_a",path=":bg/",sync=0},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夏の肉まん"},
+{"savetitle",text="夏天的肉包"},
 {"bg",file="bg016_b",path=":bg/",time=2000},
 {"bgm",file="bgm07"},
 {"text"},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="出陣の朝"},
+{"savetitle",text="出阵的早晨"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg099_e",path=":bg/",speed=120000,time=2000,x=-640,x2=640,y=0,y2=0},
 {"se",vol=60,loop=1,id=1,file="se鳥チュンチュン2"},
 {"bgm",file="bgm28"},

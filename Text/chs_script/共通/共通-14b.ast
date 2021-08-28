@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="小生意気じゃない普通の天使"},
+{"savetitle",text="平等待人的普通天使"},
 {"eval",exp="f.asu=f.asu+1"},
 {"bgm",file="bgm12"},
 {"msgoff"},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="本日のご予定は？"},
+{"savetitle",text="今天的安排是？"},
 {"excall",cond="f.kyo22==0",label="flagno"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_a",path=":bg/",rule="rule_002r",speed=120000,vague=40,x=640,x2=-640,y=100,y2=100},
 {"excall",label="label01"},

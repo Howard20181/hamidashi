@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="小田原評定"},
+{"savetitle",text="小田原评定"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg011_a",path=":bg/",sync=0},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="小田原城の戦い"},
+{"savetitle",text="小田原城之战"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg012_a",path=":bg/",sync=0},
 {"fg",ch="詩桜",ex05="shi_z1a0010",face="a0001",file="shi_z1a0210",head="shi_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/shi/z1/",resize=1,size="z1",sync=0},

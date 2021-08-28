@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ほっと一息"},
+{"savetitle",text="松一口气"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_c",path=":bg/",sync=0},
 {"extrans"},
 {"bgm",file="bgm01"},

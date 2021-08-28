@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="本日より新ガチャ開催です"},
+{"savetitle",text="今天开始传奇武将抽卡"},
 {"bg",file="bg001_a",path=":bg/",time=2000},
 {"se",id=1,file="seスマホ着信音2"},
 {"text"},

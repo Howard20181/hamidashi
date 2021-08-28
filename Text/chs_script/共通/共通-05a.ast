@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="蟻よりの梨"},
+{"savetitle",text="身负重任"},
 {"bg",file="bg099_b",path=":bg/",time=2000},
 {"bgm",file="bgm23"},
 {"text"},

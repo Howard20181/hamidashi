@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="俺たちの戦いはこれからだ！"},
+{"savetitle",text="我们的战斗从现在开始！"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_b",path=":bg/",speed=120000,sync=0,x=-640,x2=640,y=0,y2=0},

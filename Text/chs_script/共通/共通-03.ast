@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="大貧民負けてマジギレ"},
+{"savetitle",text="就像玩大富翁输了一样，我服了"},
 {"bg",file="bg014_a",path=":bg/",time=2000},
 {"bgm",file="bgm25"},
 {"text"},

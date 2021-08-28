@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="待って無理しんどい尊みが深い"},
+{"savetitle",text="等到花都谢了"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg099_b",path=":bg/",speed=40000,x=-300,x2=-300,y=-200,y2=200},
 {"se",id=1,file="se学園のチャイム1"},
 {"ex",time=2000,func="wait"},

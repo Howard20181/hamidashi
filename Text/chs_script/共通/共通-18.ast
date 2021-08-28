@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="いいくにつくろう"},
+{"savetitle",text="全力以赴"},
 {"bg",file="bg099_e",path=":bg/",rule="rule_002r",vague=40},
 {"ex",time=1000,func="wait"},
 {"se",id=1,file="se学園のチャイム1"},
