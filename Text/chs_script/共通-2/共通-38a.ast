@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="大地の子"},
+{"savetitle",text="大地之子"},
 {"eval",exp="f.kan=f.kan+1"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg011_a",path=":bg/",sync=0,x=-400},

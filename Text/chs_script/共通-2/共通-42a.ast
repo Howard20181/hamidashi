@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ヒモ理論"},
+{"savetitle",text="弦（小白脸）理论"},
 {"eval",exp="f.hiy=f.hiy+1"},
 {"bg",file="ev_com_10e",path=":ev/ev_com_10/",set="ev_com_10",time=100},
 {"bgm",file="bgm08"},

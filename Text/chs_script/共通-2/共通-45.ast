@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夏だね"},
+{"savetitle",text="夏天"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg021_a",path=":bg/",speed=120000,x=640,x2=-640,y=100,y2=100},
 {"bgm",file="bgm06"},
 {"text"},

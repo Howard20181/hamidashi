@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="うっふんって最初に考えたの誰"},
+{"savetitle",text="是谁一开始就赌气呢"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg024_c",path=":bg/",sync=0},

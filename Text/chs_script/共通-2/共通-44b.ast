@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="そんな餌で俺様が釣られ熊"},
+{"savetitle",text="恶者上钩"},
 {"eval",exp="f.shi=f.shi+1"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},

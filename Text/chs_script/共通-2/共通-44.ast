@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="だって夏じゃない"},
+{"savetitle",text="因为是夏天嘛"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg022_a",path=":bg/",sync=0},

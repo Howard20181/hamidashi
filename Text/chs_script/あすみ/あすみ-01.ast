@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="時給１０万円の世界"},
+{"savetitle",text="时薪10万日元的世界"},
 {"eval",exp="g.sysvo_asu=1"},
 {"bg",file="catch04",id=9,lv=9,path=":cg/",time=500},
 {"bgm",file="bgm94",loop=0},

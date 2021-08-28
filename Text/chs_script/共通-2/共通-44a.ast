@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="だって女の子だもん"},
+{"savetitle",text="因为是女生嘛"},
 {"eval",exp="f.asu=f.asu+1"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
