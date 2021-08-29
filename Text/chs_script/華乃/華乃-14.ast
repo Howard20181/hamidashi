@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="カタパルトに乗って"},
+{"savetitle",text="准备起飞！"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg015_c",path=":bg/",sync=0},

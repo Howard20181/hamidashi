@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夏だ！　海だ！　女体盛りだ！"},
+{"savetitle",text="夏天！　大海！　女体盛宴！"},
 {"msgoff"},
 {"bg",file="sd_com_99d",id=6,lv=5,path=":sd/sd_com_99/",set="sd_com_99",sync=0,time=400},
 {"extrans",rule="rule_002r",vague=40},

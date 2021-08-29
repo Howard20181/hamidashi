@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ももんが"},
+{"savetitle",text="鼯鼠"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg017_f",path=":bg/",speed=120000,x=640,x2=-640,y=100,y2=100},
 {"bgm",file="bgm07"},
 {"text"},
@@ -3385,7 +3385,7 @@ vo={
 name={name="詩桜"},
 ja={
 {
-"「んっ」",
+"「唔」",
 },
 },
 },

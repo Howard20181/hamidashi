@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="つまらないものですが"},
+{"savetitle",text="小女子不才"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_a",path=":bg/",speed=150000,time=2000,x=-640,x2=640,y=100,y2=100},
 {"bgm",file="bgm25"},
 {"text"},

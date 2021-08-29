@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="中距離弾道ミサイル"},
+{"savetitle",text="中距离弹道导弹"},
 {"bgm",file="bgm20"},
 {"se",loop=1,id=1,file="seエロ_ピストン：強"},
 {"lvo",ch="hiy",file="fem_hiy_00534",loop=1},

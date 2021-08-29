@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="から回れ俺のやる気"},
+{"savetitle",text="燃烧吧我的干劲"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg011_a",path=":bg/",speed=120000,time=2000,x=-640,x2=640,y=100,y2=100},
 {"bgm",file="bgm07"},
 {"text"},

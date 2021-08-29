@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="勝利投手"},
+{"savetitle",text="胜利投手"},
 {"bgm",file="bgm20"},
 {"se",stop=1,time=500,id=2},
 {"lvo",ch="hiy",stop=1,loop=1},

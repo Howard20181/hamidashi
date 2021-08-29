@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="絵が上手い人は絵が上手い"},
+{"savetitle",text="擅长绘画的人简直是妙手丹青"},
 {"bg",file="bg099_a",path=":bg/",time=2000},
 {"text"},
 crc="27ff5dd2",

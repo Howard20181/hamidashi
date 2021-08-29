@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="テルモピュライの戦い"},
+{"savetitle",text="温泉关战役"},
 {"bg",file="bg011_2_b",path=":bg/",rule="rule_002r",vague=40},
 {"bgm",file="bgm04"},
 {"text"},
@@ -2294,9 +2294,7 @@ ja={
 [120]={
 ja={
 {
-{"exfont",size="f4"},
-"呜噢噢噢噢噢噢噢！",
-{"exfont"},
+"呜噢噢噢噢噢噢噢噢噢噢噢噢噢噢噢！",
 },
 },
 },
@@ -2661,9 +2659,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-{"exfont",size="f4"},
 "「ＡＨＨＨＨＨＨＨＨＨＨＨ！！！」",
-{"exfont"},
 },
 },
 },

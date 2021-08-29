@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="賭博黙示録"},
+{"savetitle",text="赌博默示录"},
 {"msgoff"},
 {"bg",file="bg011_a",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_nob0000",face="b0001",file="hiy_nob0200",head="hiy_nob",id=9,lv=2.2,mode=3,mx=0,my=0,path=":fg/hiy/no/",size="no",sync=0,x=-280},

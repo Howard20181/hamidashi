@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="１３３３年"},
+{"savetitle",text="1333年"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_b",path=":bg/",sync=0,x=-400},
 {"fg",ch="詩桜",ex05="shi_z1b0010",face="b0023",file="shi_z1b0210",head="shi_z1b",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/shi/z1/",resize=1,size="z1",sync=0},
 {"extrans",time=2000},

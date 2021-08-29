@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ん？　今、なんでもするって"},
+{"savetitle",text="嗯？你刚刚说什么都会做？"},
 {"msgoff"},
 {"bg",file="bg002_a",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_nob0000",face="b0019",file="hiy_nob0500",head="hiy_nob",id=9,lv=2.2,mode=3,mx=0,my=0,path=":fg/hiy/no/",size="no",sync=0,x=-230},
@@ -2122,7 +2122,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-"「ぎゅう」",
+"「抱抱」",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="御恩と奉公"},
+{"savetitle",text="恩赐与奉公"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg025_c",path=":bg/",rule="rule_002r",speed=120000,vague=40,x=-640,x2=640,y=100,y2=100},
 {"bgm",file="bgm18"},
 {"text"},

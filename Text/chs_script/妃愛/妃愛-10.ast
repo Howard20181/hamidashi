@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="牛魔王は豚が好き"},
+{"savetitle",text="牛魔王喜欢猪"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_a",path=":bg/",speed=80000,time=2000,x=-640,x2=-640,y=360,y2=-360},
 {"bgm",file="bgm01"},
 {"text"},
@@ -4157,7 +4157,7 @@ vo={
 name={name="妃愛"},
 ja={
 {
-"「おにいちゃあああん……」",
+"「哥哥……」",
 },
 },
 },

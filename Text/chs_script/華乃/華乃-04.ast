@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="タイミングやぞ"},
+{"savetitle",text="时机啊"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_a",path=":bg/",speed=60000,time=2000,x=0,x2=0,y=-360,y2=360},
 {"se",id=1,file="seインターフォン"},
 {"text"},
@@ -3895,7 +3895,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-"「あんたさ……」",
+"「你啊……」",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="約束の海"},
+{"savetitle",text="约定之海"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg004_a",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_z1a0010",face="a0054",file="hiy_z1a0510",head="hiy_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/hiy/z1/",resize=1,size="z1",sync=0,x=0},
 {"extrans",time=2000},
@@ -3335,9 +3335,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-{"exfont",size="f5"},
 "「咕咳咳！」",
-{"exfont"},
 },
 },
 },
@@ -3345,9 +3343,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-{"exfont",size="f5"},
 "「哦啊！！！」",
-{"exfont"},
 },
 },
 },

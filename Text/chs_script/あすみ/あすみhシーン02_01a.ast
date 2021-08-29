@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="黄蓋"},
+{"savetitle",text="黄盖"},
 {"bgm",file="bgm19"},
 {"lvo",ch="asu",file="fem_asu_00224",loop=1},
 {"bg",file="ev_asu_h04g",path=":ev/ev_asu_h04/",set="ev_asu_h04",time=500},
@@ -143,7 +143,7 @@ vo={
 name={name="あすみ"},
 ja={
 {
-"「嗯，啊唔……啾，嗯，啾哈，啾，啾哈啊啊啊」",
+"「嗯，啊唔，啾哈，啾哈哈，嗯，啾哈，啾哈，啾哈哈，哈……啾，嗯，啾哈，啾，啾哈啊啊啊」",
 },
 },
 },

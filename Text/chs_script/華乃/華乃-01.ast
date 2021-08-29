@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="初めてのイベントはいつですか"},
+{"savetitle",text="初次活动是什么时候"},
 {"eval",exp="g.sysvo_kan=1"},
 {"bg",file="catch03",id=9,lv=9,path=":cg/",time=500},
 {"bgm",file="bgm93",loop=0},

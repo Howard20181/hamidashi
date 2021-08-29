@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="７２時間働けますか"},
+{"savetitle",text="能72小时劳动吗"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_a",path=":bg/",sync=0},

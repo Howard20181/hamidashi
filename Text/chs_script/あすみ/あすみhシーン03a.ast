@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="中務卿"},
+{"savetitle",text="中书令"},
 {"bg",file="ev_asu_h07f",path=":ev/ev_asu_h07/",set="ev_asu_h07",sync=0,time=400},
 {"bgm",file="bgm20"},
 {"se",stop=1,time=500,id=1},

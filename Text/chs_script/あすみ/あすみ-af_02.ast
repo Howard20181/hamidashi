@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夢幻遠点のＶＲ３"},
+{"savetitle",text="梦幻远方之VR3"},
 {"bgm",file="bgm20"},
 {"se",file="se衣擦れ",id=1},
 {"bg",file="bg007_b",path=":bg/"},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ネットのランキングとか見る？"},
+{"savetitle",text="要看网上的排名吗？"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg099_a",path=":bg/",speed=80000,time=2000,x=0,x2=0,y=360,y2=-360},
 {"bgm",file="bgm28"},
 {"text"},

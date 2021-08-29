@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="あすみ「先輩、お元気かなあ」"},
+{"savetitle",text="亚澄「学长，最近还好吗」"},
 {"bg",file="bg001_a",path=":bg/",time=2000},
 {"bgm",file="bgm28"},
 {"se",file="seドア(室内開き)",id=1},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ハリネズミはモグラの仲間"},
+{"savetitle",text="刺猬是鼹鼠的伙伴"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg020_a",path=":bg/",speed=120000,time=2000,x=-640,x2=640,y=100,y2=100},
 {"bgm",file="bgm11"},
 {"fg",ch="天梨",ex05="ame_noa0000",face="a0035",file="ame_noa0800",head="ame_noa",id=20,lv=2.2,mode=1,mx=0,my=0,path=":fg/ame/no/"},

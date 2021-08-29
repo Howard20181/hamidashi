@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="陰日向に咲く"},
+{"savetitle",text="向着阴天绽放"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_a",path=":bg/",sync=0},
@@ -4193,7 +4193,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-"「はあ！？」",
+"「哈！？」",
 },
 },
 },

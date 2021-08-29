@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="桜の詩"},
+{"savetitle",text="樱之诗"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_a",path=":bg/",sync=0},
@@ -1236,7 +1236,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-"「有什么事，什么事有~什~么~事」",
+"「有什么事，什么事什么事，什么事，有~什~么~事」",
 },
 },
 },

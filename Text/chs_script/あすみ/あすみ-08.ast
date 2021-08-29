@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="踏み出す理由"},
+{"savetitle",text="迈出一步的理由"},
 {"cgdel",id=-1},
 {"bg",file="white",path=":bg/",time=1000},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_asu_03a",path=":ev/ev_asu_03/",set="ev_asu_03",speed=20000,x=-700,x2=600,y=200,y2=-300},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ほぼイキかけました"},
+{"savetitle",text="箭在弦上差点发射"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg024_c",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_z1b0000",face="b0003",file="hiy_z1b0500",head="hiy_z1b",id=7,lv=2.3,mode=3,mx=0,my=0,path=":fg/hiy/z1/",resize=1,size="z1",sync=0,x=-430},
@@ -5139,7 +5139,7 @@ vo={
 name={name="あすみ"},
 ja={
 {
-"「あっ！」",
+"「啊！」",
 },
 },
 },
@@ -6193,7 +6193,7 @@ ja={
 [366]={
 ja={
 {
-"诶…。",
+"诶诶……。",
 },
 },
 },
@@ -6760,7 +6760,7 @@ ja={
 [428]={
 ja={
 {
-"诶…。",
+"诶诶……。",
 },
 },
 },

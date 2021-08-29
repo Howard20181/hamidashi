@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="はみだし者の詩"},
+{"savetitle",text="灵感满溢者的诗篇"},
 {"bg",file="bg099_c",path=":bg/",time=2000},
 {"bgm",file="bgm07"},
 {"fg",ch="里",ex05="mir_noa0000",face="a0054",file="mir_noa0200",head="mir_noa",id=20,lv=2.2,mode=1,mx=0,my=0,path=":fg/mir/no/",size="no"},
@@ -2970,7 +2970,7 @@ ja={
 [85]={
 ja={
 {
-"我须睡着……必须在短时间内睡着……。",
+"我必须睡着……必须睡着……必须在短时间内睡着……。",
 },
 },
 },

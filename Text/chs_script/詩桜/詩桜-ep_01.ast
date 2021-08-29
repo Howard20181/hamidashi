@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="女王は奴隷に憧れる"},
+{"savetitle",text="女王崇拜奴隶"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg008_a",path=":bg/",sync=0},
 {"fg",ch="詩桜",ex05="shi_z1b0010",face="b0053",file="shi_z1b0510",head="shi_z1b",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/shi/z1/",resize=1,size="z1",sync=0},

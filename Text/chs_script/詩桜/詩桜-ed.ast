@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="それでも鎌倉幕府は続く"},
+{"savetitle",text="即便如此镰仓幕府也还会延续下去"},
 {"bg",file="bg099_a",path=":bg/",time=2000},
 {"se",file="se鳥チュンチュン",loop=1,id=1},
 {"text"},

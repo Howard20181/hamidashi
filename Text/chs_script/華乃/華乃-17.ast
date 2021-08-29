@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="タダより美味い弁当はない"},
+{"savetitle",text="并不算特别美味的便当"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg014_a",path=":bg/",sync=0,x=400},
 {"fg",ch="莉々子",ex05="rir_z1a0000",face="a0052",file="rir_z1a0200",head="rir_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/rir/z1/",resize=1,size="z1",sync=0},
@@ -1953,7 +1953,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-"「嗯，啾啾……哈，」",
+"「嗯，啾啾……哈，哈，哈……哈，啾啾……哈，啾……」",
 },
 },
 },

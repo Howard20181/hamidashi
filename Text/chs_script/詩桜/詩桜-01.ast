@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="この選択肢覚えてる？"},
+{"savetitle",text="你可还记得这个选项？"},
 {"eval",exp="g.sysvo_shi=1"},
 {"bg",file="catch05",id=9,lv=9,path=":cg/",time=500},
 {"bgm",file="bgm95",loop=0},
@@ -1194,7 +1194,7 @@ text={
 [1]={
 ja={
 {
-"真空虚啊。。。",
+"好空虚啊……",
 },
 },
 },

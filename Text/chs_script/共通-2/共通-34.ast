@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="この紋所が目に入らぬか"},
+{"savetitle",text="没看见这个纹样吗"},
 {"se",id=1,file="se扉開く(スライド)教室"},
 {"bg",file="bg009_a",path=":bg/",sync=0},
 {"fg",ch="華乃",ex05="kan_noa0000",face="a0002",file="kan_noa0200",head="kan_noa",id=9,lv=2.2,mode=3,mx=0,my=0,path=":fg/kan/no/",size="no",sync=0,x=-230},

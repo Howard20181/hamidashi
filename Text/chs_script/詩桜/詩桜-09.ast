@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="この指止まれない"},
+{"savetitle",text="我的手，停不下来"},
 {"msgoff"},
 {"bg",file="bg002_a",path=":bg/",sync=0},
 {"extrans",time=2000},

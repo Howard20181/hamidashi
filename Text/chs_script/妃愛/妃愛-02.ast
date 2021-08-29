@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="＃炎上覚悟で嫌いなものを言う"},
+{"savetitle",text="带着炎上的觉悟说讨厌的话"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg001_a",path=":bg/",speed=120000,time=2000,x=640,x2=-640,y=100,y2=100},
 {"bgm",file="bgm05"},
 {"text"},

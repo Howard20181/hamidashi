@@ -1,7 +1,7 @@
 ast={
 {
-{"savetitle",text="太平記"},
-{"savetitle",text="太平記"},
+{"savetitle",text="太平记"},
+{"savetitle",text="太平记"},
 {"bgm",file="bgm20"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_sio_h08g",path=":ev/ev_sio_h08/",set="ev_sio_h08",time=500,x=-500,y=80},
 {"text"},
@@ -54,7 +54,7 @@ crc="bec55265",
 lang="lang_00009",
 },
 {
-{"savetitle",text="太平記"},
+{"savetitle",text="太平记"},
 {"bgm",file="bgm20"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_sio_h08i",path=":ev/ev_sio_h08/",set="ev_sio_h08",time=500,x=-500,y=80},
 {"text"},
@@ -302,7 +302,7 @@ ja={
 [19]={
 ja={
 {
-"力が入らずに無防備なままであるものの、頼りがるのある優しい微笑みを見せてくれた。これだけ責めたあとだけど、甘えたくなって抱きついてしまった。",
+"虽然没有用力也毫无防备，但她却露出了值得信赖的温柔微笑。这样调教之后，变得想要撒娇而抱住了她。",
 },
 },
 },

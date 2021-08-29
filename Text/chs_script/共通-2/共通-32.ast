@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="３次元の女性は好きかい"},
+{"savetitle",text="喜欢3次元的女性吗"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg011_b",path=":bg/",sync=0},
@@ -2774,7 +2774,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-"「我说」",
+"「那个」",
 },
 },
 },

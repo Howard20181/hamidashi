@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="いやアウトだろ"},
+{"savetitle",text="不是，这out了吧"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg017_b",path=":bg/",sync=0},

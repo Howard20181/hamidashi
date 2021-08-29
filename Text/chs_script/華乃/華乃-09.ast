@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="オタクに恋は難しい"},
+{"savetitle",text="艰难困苦的御宅恋爱"},
 {"bg",file="bg006_c",path=":bg/",time=2000},
 {"se",file="seドア(室内開き)",id=1},
 {"bgm",file="bgm08"},

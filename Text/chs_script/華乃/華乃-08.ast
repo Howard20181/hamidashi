@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="タイガーホースほどではない"},
+{"savetitle",text="还不至于留下心理创伤"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg014_a",path=":bg/",rule="rule_002r",speed=120000,vague=40,x=640,x2=-640,y=100,y2=100},
 {"bgm",file="bgm11"},
 {"text"},
@@ -3571,9 +3571,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-{"exfont",size="f2"},
 "「……我回来了」",
-{"exfont"},
 },
 },
 },
@@ -6262,7 +6260,7 @@ vo={
 name={name="華乃"},
 ja={
 {
-"「唔、嗯」",
+"「唔、嗯。」",
 },
 },
 },

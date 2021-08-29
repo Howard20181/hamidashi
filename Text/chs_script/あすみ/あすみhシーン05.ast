@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夢幻遠点のＶＲ２"},
+{"savetitle",text="梦幻远方之VR2"},
 {"bgm",file="bgm18"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
@@ -3101,7 +3101,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-"「え！？」",
+"「哎！？」",
 },
 },
 },

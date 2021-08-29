@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="足は手の三倍"},
+{"savetitle",text="脚是手的三倍"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg011_b",path=":bg/",speed=80000,time=2000,x=100,x2=100,y=360,y2=-360},
 {"bgm",file="bgm07"},
 {"text"},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="嬉しきも故郷なり"},
+{"savetitle",text="此间之喜尤似故乡"},
 {"bg",file="bg099_a",path=":bg/"},
 {"se",loop=1,id=1,file="seセミの鳴き声"},
 {"text"},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="達人でさえも寝込みは弱点"},
+{"savetitle",text="即使是圣人，熟睡后也有弱点"},
 {"bg",file="black",path=":bg/"},
 {"se",loop=1,id=1,file="se鳥チュンチュン3"},
 {"fg",ch="詩桜",ex05="shi_nob0010",face="b0038",file="shi_nob0510",head="shi_nob",id=20,lv=2.2,mode=1,mx=0,my=0,path=":fg/shi/no/"},

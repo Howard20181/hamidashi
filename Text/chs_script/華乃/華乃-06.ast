@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="家族ゲーム"},
+{"savetitle",text="家庭游戏"},
 {"bg",file="black",path=":bg/"},
 {"text"},
 crc="b664b88a",

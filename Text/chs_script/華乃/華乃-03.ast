@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="焼き肉は人が主……！"},
+{"savetitle",text="烤肉要以人为本……！"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg018_c",path=":bg/",sync=0},
 {"fg",ch="華乃",ex05="kan_noa0000",face="a0053",file="kan_noa0500",head="kan_noa",id=9,lv=2.2,mode=3,mx=0,my=0,path=":fg/kan/no/",size="no",sync=0,x=-230},

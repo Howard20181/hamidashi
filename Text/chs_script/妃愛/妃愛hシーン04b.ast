@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="外出しの術"},
+{"savetitle",text="外射之术"},
 {"bgm",file="bgm20"},
 {"se",stop=1,time=500,id=1},
 {"lvo",ch="hiy",stop=1,loop=1},

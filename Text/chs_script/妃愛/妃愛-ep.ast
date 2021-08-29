@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="生まれたときからそばにいる"},
+{"savetitle",text="从出生开始就在身边"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg013_a",path=":bg/",sync=0,y=200},
 {"fg",ch="里",ex05="mir_z1a0010",face="a0001",file="mir_z1a0210",head="mir_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/mir/z1/",resize=1,size="z1",sync=0},

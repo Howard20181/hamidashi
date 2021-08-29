@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="恶者上钩"},
+{"savetitle",text="愿者上钩"},
 {"eval",exp="f.shi=f.shi+1"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
@@ -1956,7 +1956,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-"「嗯？」",
+"「哈？」",
 },
 },
 },

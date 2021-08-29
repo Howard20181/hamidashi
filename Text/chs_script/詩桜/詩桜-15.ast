@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="戦士の休息"},
+{"savetitle",text="战士的休息"},
 {"bg",file="bg002_a",path=":bg/",time=2000},
 {"bgm",file="bgm06"},
 {"text"},

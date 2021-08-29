@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="外環自動車道"},
+{"savetitle",text="外环自动车道"},
 {"bgm",file="bgm20"},
 {"se",loop=1,id=1,file="seエロ_ピストン：強"},
 {"lvo",ch="asu",file="fem_asu_00238",loop=1},

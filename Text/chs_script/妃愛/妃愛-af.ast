@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="ピンクはまどフラミンゴ"},
+{"savetitle",text="粉色是光之火烈鸟"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_a",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_z1b0000",face="b0052",file="hiy_z1b0500",head="hiy_z1b",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/hiy/z1/",resize=1,size="z1",sync=0},
@@ -3440,7 +3440,7 @@ ja={
 name={name="智宏"},
 ja={
 {
-"「ああ」",
+"「嗯」",
 },
 },
 },

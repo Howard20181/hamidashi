@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="あだ名は「性的搾取」"},
+{"savetitle",text="别名「性的榨取」"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg004_a",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_z1a0010",face="a0054",file="hiy_z1a0510",head="hiy_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/hiy/z1/",resize=1,size="z1",sync=0},
 {"extrans",time=2000},
@@ -1524,8 +1524,6 @@ ja={
 ja={
 {
 "妃爱的经纪人，视线向斜下方落去，「呼……」一声悲伤的叹了口气。太性感了。",
-{"rt2"},
-"「ふ……」と悲しげにため息をついた。性的すぎる。",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="面舵いっぱい"},
+{"savetitle",text="右舵拉满"},
 {"bgm",file="bgm20"},
 {"se",file="seエロ_ピストン：強",loop=1,id=1},
 {"bg",file="ev_asu_h05b2",path=":ev/ev_asu_h05/",set="ev_asu_h05",time=500},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="挑戦者現る！"},
+{"savetitle",text="挑战者现身！"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg009_a",path=":bg/",sync=0},

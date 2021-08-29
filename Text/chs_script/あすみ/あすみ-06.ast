@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="和泉会長の爆肉鋼体"},
+{"savetitle",text="和泉会长的爆肉钢体"},
 {"msgoff"},
 {"fg",mx=0,my=0,mode=-2,sync=0},
 {"bg",file="bg011_a",path=":bg/",sync=0},

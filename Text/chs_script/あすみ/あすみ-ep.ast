@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="相模ライオン丸ちゃんの魂"},
+{"savetitle",text="相模狮子丸之魂"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg099_b",path=":bg/",speed=80000,x=0,x2=0,y=-360,y2=360},
 {"bgm",file="bgm03"},
 {"text"},

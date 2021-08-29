@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="お兄ちゃんは心配症"},
+{"savetitle",text="哥哥太爱操心了"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg008_a",path=":bg/",sync=0,x=-200},
 {"fg",ch="妃愛",ex05="hiy_z1b0010",face="b0008",file="hiy_z1b0510",head="hiy_z1b",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/hiy/z1/",resize=1,size="z1",sync=0},
 {"extrans"},
@@ -2971,7 +2971,7 @@ ja={
 [107]={
 ja={
 {
-"啊啊啊啊啊啊啊啊。",
+"啊啊啊。啊啊啊啊啊啊啊啊。啊啊啊啊啊啊啊啊啊啊啊。",
 },
 },
 },

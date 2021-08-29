@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="悪い子いねが！"},
+{"savetitle",text="谁是坏孩子啊！"},
 {"bg",file="bg099_c",path=":bg/"},
 {"bgm",file="bgm15"},
 {"text"},

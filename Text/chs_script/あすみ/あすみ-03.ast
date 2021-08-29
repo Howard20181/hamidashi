@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="天使は鼻をほじらない"},
+{"savetitle",text="天使不会挖鼻孔"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_a",path=":bg/",sync=0,x=400},
 {"fg",ch="妃愛",ex05="hiy_z1a0000",face="a0025",file="hiy_z1a0500",head="hiy_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/hiy/z1/",resize=1,size="z1",sync=0,x=0},
 {"extrans",time=2000},
@@ -4860,7 +4860,7 @@ ja={
 [259]={
 ja={
 {
-"噢…！",
+"噢噢……！",
 },
 },
 },

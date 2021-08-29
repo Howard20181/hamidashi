@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="月が綺麗ですね"},
+{"savetitle",text="月色真美"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg019_c",path=":bg/",rule="rule_002r",speed=80000,vague=40,x=-300,x2=-300,y=-360,y2=360},
 {"bgm",file="bgm10"},
 {"text"},

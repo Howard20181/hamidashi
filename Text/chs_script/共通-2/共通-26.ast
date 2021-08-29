@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="陽はまた昇る。そして沈む"},
+{"savetitle",text="旭日依旧会升起，然后落下"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg002_c",path=":bg/",sync=0},
 {"extrans"},

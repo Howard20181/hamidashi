@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="武士は食わねど幼児プレイ"},
+{"savetitle",text="武士即使不吃饭也要玩幼儿play"},
 {"bg",file="white",path=":bg/"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_hiy_h09a",path=":ev/ev_hiy_h09/",set="ev_hiy_h09",speed=60000,x=0,x2=200,y=350,y2=0},
 {"bgm",file="bgm19"},
@@ -3143,8 +3143,8 @@ ja={
 [209]={
 select={
 ja={
-"中に出す",
-"外に出す",
+"射在妃爱里面",
+"射在妃爱身上",
 },
 en={
 "select03",

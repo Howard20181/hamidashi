@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="風紀委員って現実にいる？"},
+{"savetitle",text="风纪委员居然现实中存在？"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg011_a",path=":bg/",sync=0},
 {"fg",ch="華乃",ex05="kan_z1a0010",face="a0003",file="kan_z1a0210",head="kan_z1a",id=13,lv=2.3,mode=3,mx=0,my=0,path=":fg/kan/z1/",resize=1,size="z1",sync=0},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="中先代の乱"},
+{"savetitle",text="中先代之乱"},
 {"bgm",file="bgm20"},
 {"se",loop=1,id=1,file="seエロ_ピストン：強"},
 {"lvo",ch="shi",file="fem_shi_00321",loop=1},
@@ -202,7 +202,7 @@ vo={
 name={name="詩桜"},
 ja={
 {
-"「啊，啊啊啊啊啊啊啊啊！啊啊，」",
+"「啊，啊啊啊啊啊啊啊啊！啊啊，啊啊啊啊啊啊！啊！啊啊啊啊！」",
 },
 },
 },

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="かいちょうのおしごと！"},
+{"savetitle",text=" 学生会长的工作！"},
 {"msgoff"},
 {"bg",file="bg009_a",path=":bg/",sync=0},
 {"fg",ch="広夢",face="a0010",file="hir_noa0200",head="hir_noa",id=13,lv=2.2,mode=3,mx=0,my=0,path=":fg/hir/no/",size="no",sync=0},

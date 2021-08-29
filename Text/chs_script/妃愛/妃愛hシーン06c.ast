@@ -1,7 +1,7 @@
 ast={
 {
-{"savetitle",text="でも幸せならＯＫです！"},
-{"savetitle",text="でも幸せならＯＫです！"},
+{"savetitle",text="不过只要幸福就OK啦！"},
+{"savetitle",text="不过只要幸福就OK啦！"},
 {"bgm",file="bgm20"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_hiy_h10b",path=":ev/ev_hiy_h10/",set="ev_hiy_h10",time=500,x=-500,y=150},
 {"text"},
@@ -77,7 +77,7 @@ crc="bec55265",
 lang="lang_00013",
 },
 {
-{"savetitle",text="でも幸せならＯＫです！"},
+{"savetitle",text="不过只要幸福就OK啦！"},
 {"bgm",file="bgm20"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zev_hiy_h10b",path=":ev/ev_hiy_h10/",set="ev_hiy_h10",time=500,x=-500,y=150},
 {"text"},

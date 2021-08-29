@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="濡れたまんまでイッちゃって！"},
+{"savetitle",text="就这么嗨到全身湿透为止！"},
 {"bg",file="bg021_a",path=":bg/",sync=0},
 {"fg",ch="妃愛",ex05="hiy_noa0010",face="a0054",file="hiy_noa0510",head="hiy_noa",id=13,lv=2.2,mode=3,mx=0,my=0,path=":fg/hiy/no/",size="no",sync=0},
 {"extrans",time=2000},

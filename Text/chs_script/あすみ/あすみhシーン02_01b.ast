@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="顔良"},
+{"savetitle",text="颜良"},
 {"bgm",file="bgm19"},
 {"bg",file="ev_asu_h04g",path=":ev/ev_asu_h04/",set="ev_asu_h04",time=500},
 {"lvo",ch="asu",file="fem_asu_00224",loop=1},

@@ -1,6 +1,6 @@
 ast={
 {
-{"savetitle",text="夢幻遠点のＶＲ１"},
+{"savetitle",text="梦幻极限之VR1"},
 {"msgoff"},
 {"bg",ax=1280,ay=720,bx=-640,by=-360,file="zbg007_b",path=":bg/",speed=120000,sync=0,x=-640,x2=640,y=100,y2=100},
 {"extrans",time=2000},
