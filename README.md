@@ -1,5 +1,5 @@
 # hamidashi
 
-- Text
+[x] Text
 - UI
-- Movie(already captured.)
+[x] Movie(already captured.)
